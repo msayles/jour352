@@ -24,8 +24,6 @@ h2 {
 }
 .history {
   color: #9dbcbd;
-  margin-left: 300px;
-  margin-right: 300px;
 }
 h3 {
   color: #910f2f;
@@ -53,6 +51,12 @@ h3 {
 }
 #sides {
   font-weight:normal;
+}
+#dine {
+  max-width: 600px;
+  width: 500%;
+  display: block;
+  float: right;
 }
 .footer {
   color: #9dbcbd;
