@@ -1,0 +1,71 @@
+/* font-family: "Raleway", sans-serif; */
+
+body {
+  font-family: Raleway, sans-serif;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 400px;
+  margin-left: 400px;
+}
+.kitchen {
+  color:#8a999c;
+  font-weight: bold;
+  font-size: 20px;
+
+}
+img { height: 70px;
+      width: 500px;
+}
+h2 {
+  color: #9dbcbd;
+  border-top-style: dotted;
+  border-bottom-style: dotted;
+  border-width: 3px;
+}
+.history {
+  color: #9dbcbd;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+h3 {
+  color: #910f2f;
+  border-bottom-style: dotted;
+  border-bottom-width: 3px;
+  border-bottom-color: #d3dadb;
+}
+.price {
+  font-style: italic;
+}
+.header {
+  text-align: center;
+}
+.boxed {
+  border: 1px dotted;
+  border-color: gray;
+  background: #d3dadb;
+  padding-left: 25px;
+}
+.pizza {
+  color: #910f2f;
+}
+.additional {
+  color: #7f8585;
+}
+#sides {
+  font-weight:normal;
+}
+.footer {
+  color: #9dbcbd;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  margin: 0px;
+}
+a {
+  color:#910f2f;
+}
+.booking {
+  font-weight: bold;
+}
+.visit {
+  color: #9dbcbd;
+}

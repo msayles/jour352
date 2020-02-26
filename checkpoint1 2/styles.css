@@ -1,0 +1,28 @@
+h1 {
+    color: #33485e;
+    text-transform: uppercase;
+    text-align:center;
+
+}
+
+#header {
+  text-align: center;
+  border-bottom: 1px solid #999;
+  width: 70%;
+  margin: 0 auto 20px;
+}
+
+
+#header p{
+  color:#999;
+  font-style: italic;
+  font-weight: bold;
+}
+
+
+img {
+    max-width: 600px;
+    width: 33%;
+    float: right;
+
+}
