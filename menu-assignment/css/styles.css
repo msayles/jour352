@@ -54,12 +54,7 @@ h3 {
 #sides {
   font-weight:normal;
 }
-#dine {
-  max-width: 600px;
-  width: 500%;
-  display: block;
-  float: right;
-}
+
 .footer {
   color: #9dbcbd;
   padding-bottom: 0px;
