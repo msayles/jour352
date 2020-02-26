@@ -11,11 +11,17 @@ body {
   color:#8a999c;
   font-weight: bold;
   font-size: 20px;
+}
+.kitchen img {
+  width:400px;
+  height:150px;
 
 }
-img { height: 70px;
-      width: 500px;
+.name {
+  height:75px;
+  width:400px;
 }
+
 h2 {
   color: #9dbcbd;
   border-top-style: dotted;
@@ -32,6 +38,7 @@ h3 {
   border-bottom-style: dotted;
   border-bottom-width: 3px;
   border-bottom-color: #d3dadb;
+  max-width: 45%;
 }
 .price {
   font-style: italic;
@@ -54,7 +61,13 @@ h3 {
 #sides {
   font-weight:normal;
 }
+.dining {
+  float: right;
+}
 
+.footer img {
+  float: right;
+}
 .footer {
   color: #9dbcbd;
   padding-bottom: 0px;
