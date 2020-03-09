@@ -1,0 +1,99 @@
+/* CSS */
+#content {
+  margin: 0 auto;
+  width: 60%;
+}
+h1 {
+  font-family: 'Merriweather',Helvetica, Arial, serif;
+  padding-top:50px;
+}
+h2 {
+  font-family: 'Merriweather',Helvetica, Arial, serif;
+}
+#byline {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight:bold;
+
+}
+#date {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color:#7F7E7E;
+}
+p {
+  clear: both;
+  padding: 12px;
+}
+blockquote {
+  font-size: 34px;
+  font-family: 'Merriweather', Helvetica, Arial, serif;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: #7F7E7E;
+  margin-left: 50px;
+  padding-left: 15px;
+  padding-top:30px;
+  padding-bottom:30px;
+  border-left: 4px solid #ccc;
+}
+
+.window {
+  width: 725px;
+  height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+.damage1 {
+  width: 350px;
+  float:right;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+
+}
+.damage2 {
+  width: 350px;
+  float:right;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+.circle {
+  width:550px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+.aerial {
+  width: 725px;
+  height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+.floorplan {
+  width: 725px;
+  height: 375px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+.interstitial {
+  font-style: italic;
+}
+p {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+#footer {
+  padding-bottom: 50px;
+}
