@@ -1,4 +1,24 @@
+body {
+  margin: 0 auto;
+  width: 70%;
+}
+p {
+  font-size:16px;
+  font-family:'Lato', sans-serif;
+}
 h1 {
-  color: #33485e;
+  font-family: 'Merriweather', serif;
   font-size:36px;
+  text-align:center;
+}
+h2 {
+  font-family: 'Merriweather', serif;
+  text-align:center;
+  border-bottom: solid;
+}
+h3, h4, h5 {
+  font-family:'Lato', sans-serif;
+}
+iframe {
+  text-align:center;
 }
