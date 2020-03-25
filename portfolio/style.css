@@ -1,23 +1,95 @@
 body {
   margin: 0 auto;
   width: 70%;
+  background-color:#FECCB8;
+  padding-bottom: 40px;
+}
+.nav {
+  background-color:#FF878B;
+  color: white;
+  list-style: none;
+  text-align: center;
+  padding: 20px 0 20px 0;
+}
+.nav li {
+  display:inline-block;
+  padding-right:50px;
+}
+.nav li a {
+  text-decoration: none;
+  color:white;
+}
+.nav li a:hover {
+  color:#FAC9CA;
+}
+.contact {
+  list-style: none;
+  text-align: center;
+  padding: 20px 0 20px 0;
+}
+.contact li a {
+  text-decoration: none;
+  color:#EC7765;
+}
+.contact li a:hover {
+  color:#FBE9E2;
+}
+.works {
+  list-style: none;
+}
+.works li a {
+  text-decoration: none;
+  color:#EC7765;
+}
+.works li a:hover {
+  color:#FBE9E2;
+}
+.skills {
+  list-style: none;
+  color:#EC7765;
+}
+
+.brand-img {
+  width:100%;
+}
+
+.text-block {
+  width:100%;
+  height:100vh;
+  background-image: url('wood.jpg');
+  background-size:cover;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top:60px;
+  margin-bottom: 60px;
+
+}
+.icon {
+  width:275px;
+  height:275px;
 }
 p {
   font-size:16px;
   font-family:'Lato', sans-serif;
+  color:#EC7765;
 }
 h1 {
   font-family: 'Merriweather', serif;
   font-size:36px;
   text-align:center;
+  color:#FDA52E;
 }
 h2 {
   font-family: 'Merriweather', serif;
   text-align:center;
   border-bottom: solid;
+  color:#D38C55;
 }
 h3, h4, h5 {
   font-family:'Lato', sans-serif;
+  color:#D38C55;
 }
 iframe {
   text-align:center;
