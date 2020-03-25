@@ -2,7 +2,7 @@ body {
   margin: 0 auto;
   width: 70%;
   background-color:#FECCB8;
-  padding-bottom: 40px;
+  padding-bottom: 60px;
 }
 .nav {
   background-color:#FF878B;
@@ -93,4 +93,8 @@ h3, h4, h5 {
 }
 iframe {
   text-align:center;
+}
+footer {
+  padding-top: 35px;
+  color:#666362;
 }
